@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://www.linkedin.com/in/adrianodsv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.buymeacoffee.com/adrianodsv" target="_blank">
+  <a href="https://www.buymeacoffee.com/adrianodsv" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
 </div>
